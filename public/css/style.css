@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    
+    text-align: center;
+    background-color: #000;
+    font: 1em sans-serif;
+}
+h1,p{
+    color: white;
+}

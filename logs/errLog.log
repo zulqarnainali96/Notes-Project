@@ -1,0 +1,16 @@
+2023,08,08,	:07:01:17	a7e87e67-0fed-4059-afb0-1ce8586e7e6d	Error : orgin not allowed by CORS Error	GET	/	http://127.0.0.1:5500
+2023,08,08,	:07:02:24	f3d01d3f-65bd-442f-9fb3-62f9bd996e2b	Error : orgin not allowed by CORS Error	GET	/	http://127.0.0.1:5500
+2023,08,10,	:00:50:07	064e71b1-68c9-4346-b45c-26df69ae67f0	SyntaxError : Unexpected string in JSON at position 47	PATCH	/users	undefined
+2023,08,10,	:00:50:25	d3907196-ddc0-4418-93e9-5da78dfffd85	ReferenceError : passworcr10 is not defined	PATCH	/users	undefined
+2023,08,10,	:00:55:13	a4f23503-44a2-4ecc-8012-5f84ff34e42e	TypeError : user.save is not a function	PATCH	/users	undefined
+2023,08,10,	:01:05:29	fd6dae24-03ad-48c3-b0fe-871b2458d2da	MongooseError : `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`	PATCH	/users	undefined
+2023,08,10,	:01:06:04	8ab23be9-a927-44fd-a389-8caaf8450923	TypeError : user.save is not a function	PATCH	/users	undefined
+2023,08,10,	:01:07:43	d626bb08-1232-4668-b612-a437f4d2ce1a	TypeError : user.save is not a function	PATCH	/users	undefined
+2023,08,10,	:01:08:32	9240e1e2-5b73-4663-b714-6845f3ea0e3f	TypeError : user.save is not a function	PATCH	/users	undefined
+2023,08,10,	:01:10:00	bc841fa7-b627-4af5-9e72-0b5a56cc980d	TypeError : user.save is not a function	PATCH	/users	undefined
+2023,08,10,	:01:15:41	9b5e5800-c2a7-48d3-ac1a-d2946c6f02a9	TypeError : user.save is not a function	PATCH	/users	undefined
+2023,08,10,	:01:17:18	8d4f5466-6deb-4f91-9edb-cfc884378c29	CastError : Cast to ObjectId failed for value "64d3c56e228ee665ab1e622" (type string) at path "_id" for model "User"	PATCH	/users	undefined
+2023,08,10,	:01:20:33	4836af6a-7a47-45df-85c0-ef0c21b00a12	CastError : Cast to ObjectId failed for value "64d3c56e228ee665ab1e622" (type string) at path "_id" for model "User"	PATCH	/users	undefined
+2023,08,10,	:01:23:18	35402857-ffd8-4fd3-99a4-6328d02f3ffc	CastError : Cast to ObjectId failed for value "64d3c56e228ee665ab1e62000" (type string) at path "user" for model "Note"	DELETE	/users	undefined
+2023,08,10,	:01:25:56	dfb49033-5113-40cb-bb90-35d9f3a96d1f	CastError : Cast to ObjectId failed for value "64d3c56e228ee665ab1e62000" (type string) at path "user" for model "Note"	DELETE	/users	undefined
+2023,08,10,	:01:26:02	fe4da3ee-a8cb-4b0c-bf94-bc3a432b3cb6	CastError : Cast to ObjectId failed for value "64d3c56e228ee665ab1e62000" (type string) at path "user" for model "Note"	DELETE	/users	undefined
